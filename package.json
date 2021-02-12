@@ -1,0 +1,25 @@
+{
+  "name": "dz-css",
+  "version": "1.0.5",
+  "description": "New style blocks for Gutenberg",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dz-css"
+  },
+  "keywords": [
+    "wp",
+    "css",
+    "style",
+    "gutenberg"
+  ],
+  "author": "Denis Zvegelj",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@wordpress/scripts": "^13.0.3"
+  }
+}
